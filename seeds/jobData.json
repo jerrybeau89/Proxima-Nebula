@@ -1,0 +1,253 @@
+
+[
+  {
+    "job_title":"Software Developer", 
+    "location": "Olympia, WA",
+    "job_type":"Exempt", 
+    "min_salary": 77028, 
+    "max_salary": 101052,
+    "description":"",  
+    "category":"IT and Computers", 
+    "remote":"Onsite" 
+  },
+  {
+    "job_title":"Senior Software Developer", 
+    "location": "Olympia, WA",
+    "job_type":"Exempt", 
+    "min_salary": 93840, 
+    "max_salary": 111552,
+    "description":"",  
+    "category":"IT and Computers", 
+    "remote":"Onsite" 
+  },
+  {
+    "job_title":"Software Engineer - Remote", 
+    "location": "Seattle, WA",
+    "job_type":"Full-Time", 
+    "min_salary": 91300, 
+    "max_salary": 129900,
+    "description":"",  
+    "category":"Engineer", 
+    "remote":"Remote" 
+  },
+  {
+    "job_title":"Firmware Software Engineer", 
+    "location": "Redmond, WA",
+    "job_type":"Contract", 
+    "min_salary": 166400, 
+    "max_salary": 176883,
+    "description":"",  
+    "category":"Engineer", 
+    "remote":"Onsite" 
+  },
+  {
+    "job_title":"Autonomous Systems Software Support Engineer", 
+    "location": "Lynnwood, WA",
+    "job_type":"Full-Time", 
+    "min_salary": 53300, 
+    "max_salary": 110700,
+    "description":"",  
+    "category":"Engineer", 
+    "remote":"Onsite" 
+  },
+  {
+    "job_title":"Software Design Engineer 3", 
+    "location": "Redmond, WA",
+    "job_type":"Contract", 
+    "min_salary": 88000, 
+    "max_salary": 111000,
+    "description":"",  
+    "category":"Engineer", 
+    "remote":"Onsite" 
+  },
+  {
+    "job_title":"Senior Software Engineer", 
+    "location": "Bellevue, WA",
+    "job_type":"Contract", 
+    "min_salary": 145600, 
+    "max_salary": 208000,
+    "description":"",  
+    "category":"Engineer", 
+    "remote":"Onsite" 
+  },
+  {
+    "job_title":"ASP .NET Web Developer 2", 
+    "location": "Seattle, WA",
+    "job_type":"Full-Time", 
+    "min_salary": 72933, 
+    "max_salary": 132512,
+    "description":"",  
+    "category":"Developer, Engineer, IT", 
+    "remote":"Hybrid" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  },
+  {
+    "job_title":"", 
+    "location": "",
+    "job_type":"", 
+    "min_salary": 1, 
+    "max_salary": 10,
+    "description":"",  
+    "category":"", 
+    "remote":"" 
+  }
+]
