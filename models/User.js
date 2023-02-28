@@ -35,6 +35,11 @@ User.init(
         len: [8],
       },
     },
+    {
+      employer:  {
+        
+      }
+    },
   },
   {
     hooks: {
