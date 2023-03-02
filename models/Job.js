@@ -11,6 +11,13 @@ Job.init(
       primaryKey: true,
       autoIncrement: true,
     },
+    user_id: {
+      type: DataTypes.INTEGER,
+      references: {
+        model: "user",
+        key: "id"
+      }
+    },
     job_title: {
       type: DataTypes.STRING,
       allowNull: false,
@@ -24,11 +31,11 @@ Job.init(
       allowNull: false,
     },
     min_salary: {
-      type: DataTypes.NUMBER,
+      type: DataTypes.DECIMAL,
       allowNull: false,
     },
     max_salary: {
-      type: DataTypes.NUMBER,
+      type: DataTypes.DECIMAL,
       allowNull: false,
     },
     description: {
@@ -37,11 +44,9 @@ Job.init(
     },
     category: {
       type: DataTypes.STRING,
-      
     },
     remote: {
       type: DataTypes.STRING,
-     
     },
   },
   {
