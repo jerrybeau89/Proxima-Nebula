@@ -2,27 +2,31 @@
   {
     "name": "Cedar",
     "email": "cedarwilliams3@gmail.com",
-    "password": "Password12345"
-    
+    "password": "Password12345",
+    "employer": true
   },
   {
     "name": "Jordon",
     "email": "j.lor99@yahoo.com",
-    "password": "Password12345"
+    "password": "Password12345",
+    "employer": true
   },
   {
     "name": "Beau",
     "email": "jerrybeau89@gmail.com",
-    "password": "Password12345"
+    "password": "Password12345",
+    "employer": true
   },
   {
     "name": "Peter",
     "email": "peterdelsol@gmail.com",
-    "password": "Password12345"
+    "password": "Password12345",
+    "employer": true
   },
   {
     "name": "Andy",
     "email": "andyabebaw1@gmail.com",
-    "password": "Password12345"
+    "password": "Password12345",
+    "employer": true
   }
 ]

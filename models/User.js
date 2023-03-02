@@ -35,11 +35,10 @@ User.init(
         len: [8],
       },
     },
-    {
-      employer:  {
-        
-      }
-    },
+    employer: {
+      type: DataTypes.BOOLEAN, 
+      allowNull: false,
+    }
   },
   {
     hooks: {

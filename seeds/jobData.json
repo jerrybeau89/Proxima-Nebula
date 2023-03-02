@@ -6,7 +6,7 @@
     "job_type":"Exempt", 
     "min_salary": 77028, 
     "max_salary": 101052,
-    "description":"",  
+    "description":"xxxxxxx",  
     "category":"IT and Computers", 
     "remote":"Onsite" 
   },
@@ -16,7 +16,7 @@
     "job_type":"Exempt", 
     "min_salary": 93840, 
     "max_salary": 111552,
-    "description":"",  
+    "description":"xxxxxxx",  
     "category":"IT and Computers", 
     "remote":"Onsite" 
   },
@@ -26,7 +26,7 @@
     "job_type":"Full-Time", 
     "min_salary": 91300, 
     "max_salary": 129900,
-    "description":"",  
+    "description":"xxxxxxx",  
     "category":"Engineer", 
     "remote":"Remote" 
   },
@@ -36,7 +36,7 @@
     "job_type":"Contract", 
     "min_salary": 166400, 
     "max_salary": 176883,
-    "description":"",  
+    "description":"xxxxxxx",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -46,7 +46,7 @@
     "job_type":"Full-Time", 
     "min_salary": 53300, 
     "max_salary": 110700,
-    "description":"",  
+    "description":"xxxxxxx",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -56,7 +56,7 @@
     "job_type":"Contract", 
     "min_salary": 88000, 
     "max_salary": 111000,
-    "description":"",  
+    "description":"xxxxxxx",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -66,7 +66,7 @@
     "job_type":"Contract", 
     "min_salary": 145600, 
     "max_salary": 208000,
-    "description":"",  
+    "description":"xxxxxxx",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -76,178 +76,28 @@
     "job_type":"Full-Time", 
     "min_salary": 72933, 
     "max_salary": 132512,
-    "description":"",  
+    "description":"xxxxxxx",  
     "category":"Developer, Engineer, IT", 
     "remote":"Hybrid" 
   },
   {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
+    "job_title":"Software Engineer I (NST)", 
+    "location": "Redmond, WA",
+    "job_type":"Full-Time", 
+    "min_salary": 77598, 
+    "max_salary": 116396,
+    "description":"xxxxxxx",  
+    "category":"Developer, Engineer, IT", 
+    "remote":"Hybrid" 
   },
   {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
-  },
-  {
-    "job_title":"", 
-    "location": "",
-    "job_type":"", 
-    "min_salary": 1, 
-    "max_salary": 10,
-    "description":"",  
-    "category":"", 
-    "remote":"" 
+    "job_title":"Software Engineer", 
+    "location": "Bellevue, WA",
+    "job_type":"Full-Time", 
+    "min_salary": 87000, 
+    "max_salary": 110000,
+    "description":"xxxxxxx",  
+    "category":"Developer, Engineer, IT", 
+    "remote":"Onsite" 
   }
 ]
