@@ -5,24 +5,44 @@
 </div>
 
 <div class="row mt-4">
-  <div class="col-md-6">
-    <h3>Create a New job:</h3>
+ <div class="col-md-6">
+    <h3>Post Job</h3>
 
-    <form class="form new-job-form">
+    <form class="form signup-form">
       <div class="form-group">
-        <label for="job-name">job name:</label>
-        <input class="form-input" type="text" id="job-name" name="job-name" />
+        <label for="name-posting">Name of job:</label>
+        <input class="form-input" type="text" id="name-posting" />
       </div>
       <div class="form-group">
-        <label for="job-funding">needed funding ($):</label>
-        <input class="form-input" type="number" id="job-funding" name="job-funding" />
+        <label for="location-posting">Location:</label>
+        <input class="form-input" type="text" id="location-posting" />
       </div>
       <div class="form-group">
-        <label for="job-desc">description:</label>
-        <textarea class="form-input" id="job-desc" name="job-desc"></textarea>
+        <label for="jobType-posting">Job type:</label>
+        <input class="form-input" type="text" id="salary-posting" />
       </div>
       <div class="form-group">
-        <button type="submit" class="btn btn-primary">Create</button>
+        <label for="salary-posting"> Min salary:</label>
+        <input class="form-input" type="integer" id="salary-posting" />
+      </div>
+      <div class="form-group">
+        <label for="salary-posting">Max salary:</label>
+        <input class="form-input" type="integer" id="salary-posting" />
+      </div>
+      <div class="form-group">
+        <label for="description-posting">Description:</label>
+        <input class="form-input" type="text" id="description-posting" />
+      </div>
+      <div class="form-group">
+        <label for="category-posting">Category:</label>
+        <input class="form-input" type="text" id="category-posting" />
+      </div>
+      <div class="form-group">
+        <label for="remote-posting">Remote:</label>
+        <input class="form-input" type="text" id="remote-posting" />
+      </div>
+      <div class="form-group">
+        <button class="btn btn-primary" type="submit">Post Job</button>
       </div>
     </form>
   </div>
