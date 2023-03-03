@@ -8,16 +8,17 @@
       <a href="/job/{{job.id}}">{{job.name}}</a>
     </h2>
     <p>
-      <span for="img" aria-label="money">💲</span>
       <!-- Pass needed_funding value to the helper function -->
-      <span class="dollar-amount"></span>
-      needed!
+      <b>{{job.job_title}} needed!</b>
+      {{job.location}}
     </p>
-    <p>Created by {{job.user.name}} on </p>
+    <p>Salary Range: ${{ job.min_salary}} - ${{job.max_salary }}</p>
+    <p><b> Description: </b>{{job.description}} </p>
+    
   </div>
   <div class="col-md-7">
     <p>
-      {{job.description}}
+      {{job.remote}}
     </p>
   </div>
 </div>
