@@ -6,7 +6,7 @@
     "job_type":"Exempt", 
     "min_salary": 77028, 
     "max_salary": 101052,
-    "description":"xxxxxxx",  
+    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
     "category":"IT and Computers", 
     "remote":"Onsite" 
   },
@@ -16,7 +16,7 @@
     "job_type":"Exempt", 
     "min_salary": 93840, 
     "max_salary": 111552,
-    "description":"xxxxxxx",  
+    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
     "category":"IT and Computers", 
     "remote":"Onsite" 
   },
@@ -26,7 +26,7 @@
     "job_type":"Full-Time", 
     "min_salary": 91300, 
     "max_salary": 129900,
-    "description":"xxxxxxx",  
+    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
     "category":"Engineer", 
     "remote":"Remote" 
   },
@@ -36,7 +36,7 @@
     "job_type":"Contract", 
     "min_salary": 166400, 
     "max_salary": 176883,
-    "description":"xxxxxxx",  
+    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -46,7 +46,7 @@
     "job_type":"Full-Time", 
     "min_salary": 53300, 
     "max_salary": 110700,
-    "description":"xxxxxxx",  
+    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -56,7 +56,7 @@
     "job_type":"Contract", 
     "min_salary": 88000, 
     "max_salary": 111000,
-    "description":"xxxxxxx",  
+    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -66,7 +66,7 @@
     "job_type":"Contract", 
     "min_salary": 145600, 
     "max_salary": 208000,
-    "description":"xxxxxxx",  
+    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -76,7 +76,7 @@
     "job_type":"Full-Time", 
     "min_salary": 72933, 
     "max_salary": 132512,
-    "description":"xxxxxxx",  
+    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
     "category":"Developer, Engineer, IT", 
     "remote":"Hybrid" 
   },
@@ -86,7 +86,7 @@
     "job_type":"Full-Time", 
     "min_salary": 77598, 
     "max_salary": 116396,
-    "description":"xxxxxxx",  
+    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
     "category":"Developer, Engineer, IT", 
     "remote":"Hybrid" 
   },
@@ -96,7 +96,7 @@
     "job_type":"Full-Time", 
     "min_salary": 87000, 
     "max_salary": 110000,
-    "description":"xxxxxxx",  
+    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
     "category":"Developer, Engineer, IT", 
     "remote":"Onsite" 
   }
