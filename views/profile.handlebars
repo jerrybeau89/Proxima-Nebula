@@ -5,64 +5,47 @@
 </div>
 
 <div class="row mt-4">
- <div class="col-md-6">
+  <div class="col-md-6">
     <h3>Post Job</h3>
 
     <form class="form signup-form">
       <div class="form-group">
-        <label for="name-posting">Name of job:</label>
-        <input class="form-input" type="text" id="name-posting" />
+        <label for="job_title">Name of job:</label>
+        <input class="form-input" type="text" id="job_title" />
       </div>
       <div class="form-group">
-        <label for="location-posting">Location:</label>
-        <input class="form-input" type="text" id="location-posting" />
+        <label for="location">Location:</label>
+        <input class="form-input" type="text" id="location" />
       </div>
       <div class="form-group">
-        <label for="jobType-posting">Job type:</label>
-        <input class="form-input" type="text" id="salary-posting" />
+        <label for="job_type">Job type:</label>
+        <input class="form-input" type="text" id="job_type" />
       </div>
       <div class="form-group">
-        <label for="salary-posting"> Min salary:</label>
-        <input class="form-input" type="integer" id="salary-posting" />
+        <label for="min_salary"> Min salary:</label>
+        <input class="form-input" type="integer" id="min_salary" />
       </div>
       <div class="form-group">
-        <label for="salary-posting">Max salary:</label>
-        <input class="form-input" type="integer" id="salary-posting" />
+        <label for="max_salary">Max salary:</label>
+        <input class="form-input" type="integer" id="max_salary" />
       </div>
       <div class="form-group">
-        <label for="description-posting">Description:</label>
-        <input class="form-input" type="text" id="description-posting" />
+        <label for="description">Description:</label>
+        <input class="form-input" type="text" id="description" />
       </div>
       <div class="form-group">
-        <label for="category-posting">Category:</label>
-        <input class="form-input" type="text" id="category-posting" />
+        <label for="category">Category:</label>
+        <input class="form-input" type="text" id="category" />
       </div>
       <div class="form-group">
-        <label for="remote-posting">Remote:</label>
-        <input class="form-input" type="text" id="remote-posting" />
+        <label for="remote">Remote:</label>
+        <input class="form-input" type="text" id="remote" />
       </div>
       <div class="form-group">
         <button class="btn btn-primary" type="submit">Post Job</button>
       </div>
     </form>
   </div>
-
-  {{#if jobs.length}}
-  <div class="col-md-6 job-list">
-    <h3>Current jobs:</h3>
-
-    {{#each jobs as |job|}}
-    <div class="row mb-2">
-      <div class="col-md-8">
-        <h4><a href="/job/{{job.id}}">{{job.name}}</a></h4>
-      </div>
-      <div class="col-md-4">
-        <button class="btn btn-sm btn-danger" data-id="{{job.id}}">DELETE</button>
-      </div>
-    </div>
-    {{/each}}
-  </div>
-  {{/if}}
 </div>
 
 <script src="./js/profile.js"></script>
