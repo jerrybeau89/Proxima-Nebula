@@ -7,17 +7,23 @@
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-5" id="JobModalLongTitle">{{job.job_title}}</h1>
+        <h1 class="modal-title fs-5" id="JobModalLongTitle">{{job_title}}</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
-      <div class="modal-body">
-        {{job.location}}
-        {{job.type}}
-        {{job.min_salary}}
-        {{job.max_salary}}
-        {{job.description}}
-        {{job.category}}
-        {{job.remote}}
+      <div class="modal-body"> 
+        <div>
+            <p>
+              <b>Location: </b>{{location}} - {{remote}}
+            </p>
+            <p>
+              <b>Job Type: </b>{{job_type}}
+            </p>
+            <p><b>Salary Range: </b> ${{min_salary}} - ${{max_salary }}</p>
+            <p><b> Description: </b>{{description}} </p>
+            <p>
+              <b>Category: </b>{{category}}
+            </p>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
