@@ -1,16 +1,24 @@
 <!-- Loop over each object in the jobs array -->
+
 {{#if logged_in}}
-{{#each jobs as |job| }}
+
+{{#some array isString}}
+  Render me if the array has a string.
+{{else}}
+  Render me if it doesn't.
+{{/some}}
+{{#each (reverse jobs)}}
+
 <div class="row mb-4 job">
   <div class="col-md-4">
     <p>
-      <b>{{job.job_title}} needed!</b>
-      {{job.location}}
+      <b>{{job_title}} needed!</b>
+      {{location}}
     </p>
   </div>
   <div class="col-md-4">
     <p>
-      {{job.remote}}
+      {{remote}}
     </p>
   </div>
   <div class="col-md-4">
