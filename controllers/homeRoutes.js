@@ -15,8 +15,8 @@ router.get('/', async (req, res) => {
     });
 
     // Serialize data so the template can read it
+   
     const jobs = jobData.map((job) => job.get({ plain: true }));
-
     // Pass serialized data and session flag into template
     res.render('homepage', { 
       jobs, 
