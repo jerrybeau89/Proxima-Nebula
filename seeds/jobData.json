@@ -6,7 +6,7 @@
     "job_type":"Exempt", 
     "min_salary": 77028, 
     "max_salary": 101052,
-    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
+    "description":"",  
     "category":"IT and Computers", 
     "remote":"Onsite" 
   },
@@ -16,7 +16,7 @@
     "job_type":"Exempt", 
     "min_salary": 93840, 
     "max_salary": 111552,
-    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
+    "description":"",  
     "category":"IT and Computers", 
     "remote":"Onsite" 
   },
@@ -26,7 +26,7 @@
     "job_type":"Full-Time", 
     "min_salary": 91300, 
     "max_salary": 129900,
-    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
+    "description":"At Liberty Mutual, technology isn't just a part of our business, it's what drives us forward. We deliver our customers peace of mind every day by helping them protect what they value most. Our passion for placing the customer at the center of everything we do is driving a transformational shift at Liberty Mutual. Operating as a tech startup within a Fortune 100 company, we are leading a digital disruption that will redefine how people experience insurance.\n Architecture Enablement Team within Liberty Mutual Global Retail Markets - US is actively searching for a Software Engineer to join their team! This team provides architectural leadership, support and enablement of modern, cloud-native software development. Implementing and influencing a platform based on the latest tools, principles, patterns and practices of cloud-native engineering. This team builds capabilities that allow the organization focus on rapid delivery of business value. Our platform provides mission critical engineering enablement to our application teams, allowing them to create and instantly deploy new applications while taking advantage of open source enterprise-class capabilities.\n Most importantly, you'll be engaged in meaningful work in an organization that is committed to 'helping people live safer, more secure lives' every day.\n Responsibilities:\n - Create tools, patterns, practices, and a cloud-native platform that allow teams to focus on delivering business value rapidly\n - Analyze technical system problems, design and implement effective solutions\n - Handle end-to-end development, including coding, testing, and debugging during each cycle\n - Support feature technical implementation\n - Create and maintain technical documentation\n - Executes all levels of testing (Unit, System, Integration, Regression)\n - Research technology and bring new ideas to the team\n - Possess a deep understanding of the product and business goals which you can translate into technology decisions\n - Keeps informed of advances in IT and Agile Engineering practices\n - Bachelor's or Master's degree in technical or business discipline or equivalent experience, technical degree preferred.\n - 2+ years of professional development experience in a major development language (JavaScript) with emphasis on back-end services including experience with using AWS, server-side frameworks (preferably NodeJS) and managing APIs exposing microservices (REST) including development and support of Java/JavaScript services\n - Familiarity with CI/CD and DevOps tools such as Git, Gradle, Jenkins, Bamboo\n - You know how to write readable, maintainable, and performant code\n - You have a deep knowledge of software engineering best practices\n - You have a great ability to learn, and you are eager to expand your areas of expertise\n - You have experience working hands-on as a Software Engineer in an agile environment\n - You care about quality and you know what it means to ship high-quality code\n - You have experience in identifying, debugging and resolving complex production issues\n - Familiarity with application monitoring tools such as Splunk, - DataDog and AppDynamics(desired)\n - Experience with Cloud Technologies such as AWS and Cloud Foundry (desired)\n - Experience with container technologies such as Docker or Pivotal Cloud Foundry (desired)\n At Liberty Mutual, our purpose is to help people embrace today and confidently pursue tomorrow. That's why we provide an environment focused on openness, inclusion, trust and respect. Here, you'll discover our expansive range of roles, and a workplace where we aim to help turn your passion into a rewarding profession.\n Liberty Mutual has proudly been recognized as a “Great Place to Work” by Great Place to Work® US for the past several years. We were also selected as one of the “100 Best Places to Work in IT” on IDG's Insider Pro and Computerworld's 2020 list. For many years running, we have been named by Forbes as one of America's Best Employers for Women and one of America's Best Employers for New Graduates—as well as one of America's Best Employers for Diversity. To learn more about our commitment to diversity and inclusion please visit: https://jobs.libertymutualgroup.com/diversity-inclusion\n We value your hard work, integrity and commitment to make things better, and we put people first by offering you benefits that support your life and well-being. To learn more about our benefit offerings please visit: https://LMI.co/Benefits\n Liberty Mutual is an equal opportunity employer. We will not tolerate discrimination on the basis of race, color, national origin, sex, sexual orientation, gender identity, religion, age, disability, veteran's status, pregnancy, genetic information or on any basis prohibited by federal, state or local law.",  
     "category":"Engineer", 
     "remote":"Remote" 
   },
@@ -36,7 +36,7 @@
     "job_type":"Contract", 
     "min_salary": 166400, 
     "max_salary": 176883,
-    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
+    "description":"JOB TITLE: Firmware Software Engineer \nLOCATION: Redmond, WA (onsite) \nDURATION: 12+ Months \nPAY RANGE: $80-85/hr. W2 \nJob Description: Onsite \nSummary: \nThe Sensors Team is looking for an experienced firmware engineer to work on developing firmware for customized image sensors. You will be working together with image sensor engineers, electrical engineers, etc. on building and testing prototypes. \nJob Responsibilities: \n- Develop firmware to integrate customized image sensors into prototyping systems \n- Testing the developed firmware with the hardware \n- Support debugging issues reported by users of the prototypes \n- Minimum qualifications: \n- 5+ years of experience with firmware development in C/C++ language \n- 5+ years of experience with developing firmware to control image sensors or cameras \n- Familiar with hardware testing equipment including oscilloscope, function generator, power supply etc. \n- Experience with Zephyr OS \n- Experience with I2C/I3C \n- Experience with MIPI C/D-PHY \n- Preferred Qualifications:  \n- Experience with Python for image sensor data analysis \n- Experience with GUI design  \n- Education/Experience:  \n- Bachelor's degree in computer science, software engineering or relevant field required. \nIND123",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -46,7 +46,7 @@
     "job_type":"Full-Time", 
     "min_salary": 53300, 
     "max_salary": 110700,
-    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
+    "description":"Job Description:\nLeidos currently has an opening for an Autonomous Systems Embedded Software Engineer to support the development and integration of Underwater Vehicle programs that address existing and emerging maritime missions of national importance for a broad range of customers across multiple Department of Defense agencies. This position is located at either the Lynnwood or Poulsbo, WA office.\n- Primary Responsibilities\n-Support software development efforts for multiple projects\n- Assist in streamlining software tooling and processes on the team\n- Aid in troubleshooting software defects and perform root-cause analysis\n- Provide system administration and infrastructure management of software development environments\n- Support for basic code writing in C++, Python, or a similar language\n- Support for software test events as a test operator and support engineer\n- Basic Qualifications\n- Bachelor’s degree with 0-2 years of relevant experience\n- Eligibility to obtain and maintain a Secret clearance\n- Basic language skills in C/C++\n- A desire to learn and grow technically in a variety of areas\n- Experience and background with troubleshooting software issues\n- Ability to communicate and share ideas, concepts, designs, and technical plans with other engineers\n- An eagerness to solve complex problems and work together with both junior and senior-level developers to achieve project goals\n- Constant integrity in working with our employees and customers\n- Preferred Qualifications\n- Exposure to languages such as C#, Java, Python, Rust, and others\n- Experience with Agile-based methodologies using t\n- Atlassian tool suite (Jira, Confluence, Bitbucket) or similar tools\n- Experience with Linux and Windows systems\n- Experience with virtualized development and production environments (VMware)\n- Pay Range:\n- Pay Range $53,300.00 - $82,000.00 - $110,700.00\n- The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -56,7 +56,7 @@
     "job_type":"Contract", 
     "min_salary": 88000, 
     "max_salary": 111000,
-    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
+    "description":"",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -66,7 +66,7 @@
     "job_type":"Contract", 
     "min_salary": 145600, 
     "max_salary": 208000,
-    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
+    "description":"",  
     "category":"Engineer", 
     "remote":"Onsite" 
   },
@@ -76,7 +76,7 @@
     "job_type":"Full-Time", 
     "min_salary": 72933, 
     "max_salary": 132512,
-    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
+    "description":"",  
     "category":"Developer, Engineer, IT", 
     "remote":"Hybrid" 
   },
@@ -86,7 +86,7 @@
     "job_type":"Full-Time", 
     "min_salary": 77598, 
     "max_salary": 116396,
-    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
+    "description":"",  
     "category":"Developer, Engineer, IT", 
     "remote":"Hybrid" 
   },
@@ -96,7 +96,7 @@
     "job_type":"Full-Time", 
     "min_salary": 87000, 
     "max_salary": 110000,
-    "description":"This is an exciting new job oppurtunity that requires the use of a variety of skills",  
+    "description":"",  
     "category":"Developer, Engineer, IT", 
     "remote":"Onsite" 
   }
