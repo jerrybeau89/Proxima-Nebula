@@ -10,10 +10,10 @@ router.post('/', withAuth, async (req, res) => {
       user_id: req.session.user_id,
     });
 
-      fs.writeFile('../../seeds/jobData.json', req.body, function (err) {
-          if (err) throw err;
-          console.log('File is created successfully.');
-      });
+      // fs.writeFile('../../seeds/jobData.json', req.body, function (err) {
+      //     if (err) throw err;
+      //     console.log('File is created successfully.');
+      // });
 
     res.status(200).json(newJob);
   } catch (err) {
