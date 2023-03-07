@@ -4,6 +4,7 @@ const { User, Job } = require('../models');
 const userData = require('./userData.json');
 const jobData = require('./jobData.json');
 
+
 const seedDatabase = async () => {
   await sequelize.sync({ force: true });
 
