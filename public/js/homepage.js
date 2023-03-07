@@ -12,7 +12,7 @@ function getPOTD (){
 getPOTD()
 
 function setImageBackground(result){
-    $( ".wrap").css("background-image", "url(" + result.hdurl + ")");
+    $( "body").css("background-image", "url(" + result.hdurl + ")");
 }
 
 
