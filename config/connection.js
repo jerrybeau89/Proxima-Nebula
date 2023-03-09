@@ -1,8 +1,6 @@
 const Sequelize = require('sequelize');
 require('dotenv').config();
 
-/* Before setting up for completion, uncomment code below to set up for HEROKU */
-
 let sequelize;
 
 if (process.env.JAWSDB_URL) {

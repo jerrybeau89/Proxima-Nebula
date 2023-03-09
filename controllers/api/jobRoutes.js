@@ -1,7 +1,6 @@
 const router = require('express').Router();
 const { Job } = require('../../models');
 const withAuth = require('../../utils/auth');
-const fs = require('fs');
 
 router.post('/', withAuth, async (req, res) => {
   try {
@@ -9,11 +8,6 @@ router.post('/', withAuth, async (req, res) => {
       ...req.body,
       user_id: req.session.user_id,
     });
-
-      // fs.writeFile('../../seeds/jobData.json', req.body, function (err) {
-      //     if (err) throw err;
-      //     console.log('File is created successfully.');
-      // });
 
     res.status(200).json(newJob);
   } catch (err) {
