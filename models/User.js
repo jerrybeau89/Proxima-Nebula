@@ -37,7 +37,6 @@ User.init(
     },
     employer: {
       type: DataTypes.BOOLEAN, 
-      allowNull: false,
     }
   },
   {
