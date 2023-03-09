@@ -5,6 +5,7 @@ router.post('/', async (req, res) => {
   try {
     const userData = await User.create(req.body);
 
+    console.log("**** USER DATA*****" + userData);
     req.session.save(() => {
       req.session.user_id = userData.id;
       req.session.logged_in = true;
@@ -12,6 +13,7 @@ router.post('/', async (req, res) => {
       res.status(200).json(userData);
     });
   } catch (err) {
+    console.log(err);
     res.status(400).json(err);
   }
 });
